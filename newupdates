@@ -1,0 +1,44 @@
+- NCDOT Fleet
+- Many Lighting Fixes
+- New Chat Layout  || Press L to hide the chat
+- New Fuel System
+- Fuel HUD tied into current HUD
+- Realistic Fuel Pumps  ||  Press E at a gas pump
+- Horse Stables w/ rideable horses
+- New custom vehicle stance menu
+- Air Suspension  || Change your keybinds in FiveM settings - Default B & H
+- Moveable FPS Counter w/ Custom UI  ||  F6 to move it - ESC to stop
+- Paid HD Lidar Gun  || Vintage Pistol - Q to aim 
+- Sit in any seat of a vehicle
+- HUD Update & Adjustments
+- New Speed Limit UI w/ Updated Speed Limits
+- You can drag people who are dead
+- Engine Swap Script  || Engine Upgrades - WIP
+- in-game 0-60 | 0-100 | Mile | Track timer || /dragy
+- Create ID script that allows for multiple changes in session & takes a mugshot of you for the picture.  || /createid - /showid ID
+- Drug & Medication Script for recreational use and medical use. (Example: Oxygen Impacts Health)  || /drugmenu
+- Flashbang Script that mutes voice to improve realism  || SRT
+- Automatic Map Cleaner - Once per hour it cleans the map of peds and unoccupied vehicles with warning.
+- Server Game Build Rollback 
+- Optimization + 15-20 FPS statewide
+- Increased Fuel Capacity
+- Cold start revamp || Faster Ignition - Must use X before pumping gas
+- New Loading Screen
+- Ignition is X - Autopilot is [
+- Bean Bag Shotgun (Less Lethal)
+- New AR
+- Car Lockpick & Hotwire
+- Weapon Aim Animations ||  /weaponanim
+- Pressure Washer Script w/ Different Modes  ||  Press E at a washing station
+- HD Double Flare Script for Aircraft  || press H in-game to release the flares - hold H to do a burst release.
+- Multicolored smoked trials for aircraft  ||  /smoke /smokesize /smokecolour /copysmoke [id]
+- Landing smoke  || Automatic Once A Plane Is Landed
+- Frankie's Blue Line Tattoo Package 
+-  Permanent NC License Plate Added (Fixed 3D model error)
+- Another Standard NC License Plate Added 
+- Vehicle Handling Changes - Off-road traction loss and amplified damage without proper tires.
+- Aircraft Smoke Trails
+    /smoke [type(All or a, Back or b, Wings or w, LeftWing or lw, RightWing or rw)] (This changes the smoke trails positions)
+    /smokesize [decimal size] (Change the smoke size, MIN 0.5, MAX 5)
+    /smokecolour (No arguments to open the menu)
+    /copysmoke [id] (Copy Another Player's Smoke Trails [Useful for teams])
